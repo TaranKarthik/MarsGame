@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+
+
+body{
+	background-image: url("mars.gif");
+    background-position: center;
+    background-size: cover;
+    
+}
+#myCanvas
+{
+	border-width:10px;
+	background-color: white; 
+	
+}
+
+h1,h4
+{
+    
+	color: white !important;
+}
+
+#thicc-text,
+#smoltext{
+    font-family: "Quicksand";
+}
